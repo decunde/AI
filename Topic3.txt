@@ -1,0 +1,51 @@
+PART 3   EXECUTION
+3.1	INSTALLATION
+A.	The UPS shall be set in place, wired, and connected in accordance with the approved shop drawings and manufacturer's instructions.
+//B.	In seismic areas, UPS shall be adequately anchored and braced per details on structural contract drawings to withstand the seismic forces at the location where installed.//
+3.2	ACCEPTANCE CHECKS AND TESTS 
+A.	An authorized representative of the UPS manufacturer shall technically supervise and participate during all of the field adjustments and tests. Major adjustments and field tests shall be witnessed by the //Resident Engineer// //COR//.  The manufacturer’s representative shall certify in writing that the equipment has been installed, adjusted, and tested in accordance with the manufacturer’s recommendations.
+B.	Perform manufacturer’s required field tests in accordance with the manufacturer's recommendations.  In addition, include the following:
+1.	Visual Inspection and Tests:
+a.	Compare equipment nameplate data with specifications and approved shop drawings.
+b.	Inspect physical, electrical, and mechanical condition.
+c.	Verify appropriate anchorage, required area clearances, and correct alignment.
+d.	Verify tightness of accessible bolted electrical connections by calibrated torque-wrench method, or performing thermographic survey after energization.
+e.	Verify grounding connections.
+f.	Vacuum-clean enclosure interior.  Clean enclosure exterior.
+g.	Verify the correct operation of all alarms and indicating devices.
+h.	Attach a phase rotation meter to the UPS input, output, and bypass buses, and observe proper phase sequences.
+i.	Check and test controls for proper operation.
+j.	Check doors for proper alignment and operation.
+k.	Check and test each protective device for proper mechanical and electrical operation.
+//l.	Verify protective device overcurrent trip settings against approved coordination study.//
+//m.	Confirm correct operation and sequencing of key-type mechanical interlock systems.//
+2.	Load Test:  The UPS shall be load tested for a continuous 24 hour period by means of resistive load banks, sized for full rated output load and provided by the UPS manufacturer.  The UPS shall be continuously tested at 1/2 load for 8 hours, 3/4 load for 8 hours and full load for 8 hours.  If a failure occurs during the burn-in period, the tests shall be repeated.  Instrument readings shall be recorded every half hour for the following:
+a.	Input voltage and current (all three phases, for each module).
+b.	Input and output frequency.
+c.	Battery voltage for each module.
+d.	Output voltage and current (all three phases, for each module).
+e.	Output kilowatts for each module.
+f.	Output voltage and current (all three phases).
+g.	Output kilowatts.
+SPEC WRITER NOTE: Delete emergency source testing requirements if no emergency source is available.
+
+3.	Full Load Burn In Test:  The UPS shall undergo an additional full load burn-in period of 24 continuous hours by means of resistive load banks, sized for full rated output load and provided by the UPS manufacturer.  If a failure occurs during the burn-in period, the tests shall be repeated.  Instrument readings shall be recorded every half hour as above.  The following tests shall be performed:
+a.	With the UPS carrying full rated output load and supplied from the normal source, switch //100 percent// //50 percent// of load bank capacity on and off a minimum of five times within the burn-in period.
+//b.	With the UPS carrying maximum continuous design load and supplied from the emergency source, repeat the switching operations described above.// 
+4.	Full Load Battery Burn In Test:  The UPS shall undergo a full load battery test by means of resistive load banks, sized for full rated output load and provided by the UPS manufacturer. If a failure occurs during the battery discharge time, the tests shall be repeated.  Instrument readings shall be recorded every half hour as above.  
+a.	With the UPS carrying full rated output load and operating on battery power, switch //100 percent// //50 percent// of load bank capacity on and off a minimum of five times within the battery discharge time.
+5.	Battery Discharge and Recharge Test:  With the battery fully charged, the UPS shall undergo a complete battery discharge test to full depletion followed by a full recharge.  Instrument readings shall be recorded every minute during discharge for the following:
+a.	Battery voltage and current// for each module//.
+b.	Output voltage and current (all three phases)// for each module//.
+c.	Output kilowatts// for each module//.
+d.	Output voltage and current (all three phases).
+e.	Output kilowatts (system).
+f.	Output frequency.
+3.3 FOLLOW-UP VERIFICATION
+A.	After completion of acceptance checks and tests, the Contractor shall show by demonstration in service that the UPS is in good operating condition and properly performing the intended function.  
+3.4 ONE LINE DIAGRAM AND SEQUENCE OF OPERATION
+A.	At final inspection, an as built one line diagram shall be laminated or mounted under acrylic glass, and installed in a frame mounted near the UPS.
+B.	Furnish a written sequence of operation for the UPS and connected line side/load side electrical distribution equipment.  The sequence of operation shall be laminated or mounted under acrylic glass, and installed in a frame mounted near the UPS. 
+C.	Deliver an additional four copies of the as-built one line diagram and sequence of operation to the //Resident Engineer// //COR//.
+3.5 INSTRUCTION
+A.	Furnish the services of a factory trained technician for one 4 hour training period for instructing personnel in the maintenance and operation of the UPS, on the dates requested by the //Resident Engineer// //COR//
